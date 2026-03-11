@@ -1,5 +1,17 @@
 # @medusajs/dashboard
 
+## 2.13.4
+
+### Patch Changes
+
+- [#14842](https://github.com/medusajs/medusa/pull/14842) [`d07f70750362e6c78298aba673de4c9db96d3ad6`](https://github.com/medusajs/medusa/commit/d07f70750362e6c78298aba673de4c9db96d3ad6) Thanks [@fPolic](https://github.com/fPolic)! - feat(core-flows,dashboard): carry over promotions flag on claims
+
+- Updated dependencies [[`4efa4a6d8f10d1864156b575c7d867048deb6e93`](https://github.com/medusajs/medusa/commit/4efa4a6d8f10d1864156b575c7d867048deb6e93)]:
+  - @medusajs/ui@4.1.4
+  - @medusajs/admin-shared@2.13.4
+  - @medusajs/js-sdk@2.13.4
+  - @medusajs/icons@2.13.4
+
 ## 2.13.3
 
 ### Patch Changes
